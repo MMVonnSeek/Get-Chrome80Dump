@@ -8,3 +8,4 @@ Rubber Duck que captura algumas informações do navegador.
 
 <sub>Optional (if you can follow me and leave a star in the repository)  ⭐
 Thank you
+  
